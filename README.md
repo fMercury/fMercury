@@ -1,9 +1,9 @@
 ### Hello 👋
 
 My name is Franco, I'm from Argentina (+Italian) and I'm a Software Engineer. 
-
-- 🔭 I’m currently working on Construction Industry as JavaScript/Python Senior Dev, Azure Cloud IoT R&D and SRE
-- 🌱 I’m currently collaborating in Data-Science on Fintech Space with PySpark
+- 🎫 I’m currently working on Ticketing Industry as Blockchain Senior, Amazon Cloud, R&D
+- 🔭 I was working on Construction Industry as JavaScript/Python Senior Dev, Azure Cloud IoT R&D
+- 🌱 I’m currently collaborating in Fintech and DEFI Space
 - 📫 I offer consulting hours !
 
 ## Skills
@@ -12,7 +12,7 @@ My name is Franco, I'm from Argentina (+Italian) and I'm a Software Engineer.
 * Hands-on projects with Machine Learning (Python Scikit-Learn Dataframes Spark PySpark SparkML) since 2017
 * Working with JavaScript and Python since 2013
 
-* Azure, Terraform, all the cloud stuff :) 
+* Azure, AWS, Terraform, all the cloud stuff :) 
 
 * Critical thinking, decision-making and problem solving skills
 * Special skills and experience in fast growing startups.
