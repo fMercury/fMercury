@@ -8,6 +8,7 @@ My name is Franco, I'm from Argentina (+Italian) and I'm a Software Engineer.
 
 ## Skills
 
+* Collaboration on Ethereum protocol based blockchain projects since 2018 
 * Using Docker in Production since 2016 and Kubernetes since 2020
 * Hands-on projects with Machine Learning (Python Scikit-Learn Dataframes Spark PySpark SparkML) since 2017
 * Working with JavaScript and Python since 2013
