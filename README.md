@@ -1,7 +1,7 @@
 ### Hello 👋
 
 My name is Franco, I'm from Argentina (+Italian) and I'm a Software Engineer (+PhD) . 
-- 🎫 I’m currently working on Ticketing Industry as Blockchain Senior, Amazon Cloud, R&D
+- 🎫 I’m currently working on Ticketing Industry as Blockchain Senior R&D, Amazon Cloud and Java/JavaScript/Python
 - 🔭 I was working on Construction Industry as JavaScript/Python Senior Dev, Azure Cloud IoT R&D
 - 🌱 I’m currently collaborating in Fintech and DEFI Space
 - 📫 I offer consulting hours !
