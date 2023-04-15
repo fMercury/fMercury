@@ -1,10 +1,15 @@
 ### Hello 👋
 
-My name is Franco, I'm from Argentina (+Italian) and I'm a Software Engineer (+PhD) . 
-- 🎫 I’m currently working on Ticketing Industry as Blockchain Senior Engineer - Architect Developer, [AWS, Java, JavaScript, Python]
-- 🔭 I was working on Construction Industry as Senior Engineer - Acrhitect Developer, [Azure Cloud, JavaScript, Python]
-- 🌱 I’m currently collaborating in Fintech and DEFI Space like Research Software Engineer
-- 📫 I offer consulting hours !
+My name is Franco, I'm from Argentina (+Italian) and I'm a Research Software Engineer 
+
+- 🎫 I’m currently working on the Event Industry Cloud as Blockchain Senior Engineer / Architect Developer
+  [Ethereum, AWS, Java, JavaScript, Python, Flutter]
+
+- 🌱 Also, I’m learning Prompt Engineering
+
+- 🔭 I was working on Construction Industry as Senior Engineer / Acrhitect Developer
+  [Ethereum, AWS, Azure, JavaScript, Python] & collaborating in DEFI Space.
+
 
 ## Skills
 
@@ -13,7 +18,7 @@ My name is Franco, I'm from Argentina (+Italian) and I'm a Software Engineer (+P
 * Hands-on projects with Machine Learning (Python Scikit-Learn Dataframes Spark PySpark SparkML) since 2017
 * Working with JavaScript and Python since 2013
 
-* Azure, AWS, Terraform, all the cloud stuff :) 
+* Ethereum Virtual Machine, AWS, Azure, Terraform, all the cloud stuff :) 
 
 * Critical thinking, decision-making and problem solving skills
 * Special skills and experience in fast growing startups.
