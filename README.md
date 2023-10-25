@@ -2,7 +2,7 @@
 
 My name is Franco, I'm from Argentina (+Italian) and I'm a Research Software Engineer 
 
-- 🎫 I’m currently working on the Event Industry Cloud as Blockchain Senior Engineer / Architect Developer
+- 🎫 I’m currently working on the Event Industry Cloud as Senior Expert Blockchain Engineer / Expert Architect Developer
   [Ethereum, AWS, Java, JavaScript, Python, Flutter]
 
 - 🌱 Also, I’m learning Prompt Engineering
